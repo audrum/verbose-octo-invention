@@ -1,3 +1,5 @@
+# Smart Cinema Proposal
+
 ### Core system
 
 We are going to use Home Assistant as the main controller for the whole automation.
